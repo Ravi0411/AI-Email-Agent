@@ -1,0 +1,8 @@
+.env
+token.json
+credentials/
+email_agent.db
+processed_emails.json
+venv/
+__pycache__/
+dist/

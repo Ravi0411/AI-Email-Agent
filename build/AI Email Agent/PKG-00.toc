@@ -1,0 +1,67 @@
+('C:\\Users\\Ravi '
+ 'Dahiya\\OneDrive\\Desktop\\Email-Agent\\Email-Agent\\build\\AI Email '
+ 'Agent\\AI Email Agent.pkg',
+ {'BINARY': True,
+  'DATA': True,
+  'EXECUTABLE': True,
+  'EXTENSION': True,
+  'PYMODULE': True,
+  'PYSOURCE': True,
+  'PYZ': False,
+  'SPLASH': True,
+  'SYMLINK': False},
+ [('pyi-contents-directory _internal', '', 'OPTION'),
+  ('PYZ-00.pyz',
+   'C:\\Users\\Ravi '
+   'Dahiya\\OneDrive\\Desktop\\Email-Agent\\Email-Agent\\build\\AI Email '
+   'Agent\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct',
+   'C:\\Users\\Ravi '
+   'Dahiya\\OneDrive\\Desktop\\Email-Agent\\Email-Agent\\build\\AI Email '
+   'Agent\\localpycs\\struct.pyc',
+   'PYMODULE'),
+  ('pyimod01_archive',
+   'C:\\Users\\Ravi '
+   'Dahiya\\OneDrive\\Desktop\\Email-Agent\\Email-Agent\\build\\AI Email '
+   'Agent\\localpycs\\pyimod01_archive.pyc',
+   'PYMODULE'),
+  ('pyimod02_importers',
+   'C:\\Users\\Ravi '
+   'Dahiya\\OneDrive\\Desktop\\Email-Agent\\Email-Agent\\build\\AI Email '
+   'Agent\\localpycs\\pyimod02_importers.pyc',
+   'PYMODULE'),
+  ('pyimod03_ctypes',
+   'C:\\Users\\Ravi '
+   'Dahiya\\OneDrive\\Desktop\\Email-Agent\\Email-Agent\\build\\AI Email '
+   'Agent\\localpycs\\pyimod03_ctypes.pyc',
+   'PYMODULE'),
+  ('pyimod04_pywin32',
+   'C:\\Users\\Ravi '
+   'Dahiya\\OneDrive\\Desktop\\Email-Agent\\Email-Agent\\build\\AI Email '
+   'Agent\\localpycs\\pyimod04_pywin32.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'C:\\Users\\Ravi '
+   'Dahiya\\OneDrive\\Desktop\\Email-Agent\\venv\\Lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth_inspect',
+   'C:\\Users\\Ravi '
+   'Dahiya\\OneDrive\\Desktop\\Email-Agent\\venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
+   'PYSOURCE'),
+  ('pyi_rth__tkinter',
+   'C:\\Users\\Ravi '
+   'Dahiya\\OneDrive\\Desktop\\Email-Agent\\venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth__tkinter.py',
+   'PYSOURCE'),
+  ('desktop_app',
+   'C:\\Users\\Ravi '
+   'Dahiya\\OneDrive\\Desktop\\Email-Agent\\Email-Agent\\src\\desktop_app.py',
+   'PYSOURCE')],
+ 'python311.dll',
+ True,
+ False,
+ False,
+ [],
+ None,
+ None,
+ None)

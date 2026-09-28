@@ -1,0 +1,75 @@
+('C:\\Users\\Ravi '
+ 'Dahiya\\OneDrive\\Desktop\\Email-Agent\\Email-Agent\\build\\AI Email Agent '
+ 'Monitor\\AI Email Agent Monitor.pkg',
+ {'BINARY': True,
+  'DATA': True,
+  'EXECUTABLE': True,
+  'EXTENSION': True,
+  'PYMODULE': True,
+  'PYSOURCE': True,
+  'PYZ': False,
+  'SPLASH': True,
+  'SYMLINK': False},
+ [('pyi-contents-directory _internal', '', 'OPTION'),
+  ('PYZ-00.pyz',
+   'C:\\Users\\Ravi '
+   'Dahiya\\OneDrive\\Desktop\\Email-Agent\\Email-Agent\\build\\AI Email Agent '
+   'Monitor\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct',
+   'C:\\Users\\Ravi '
+   'Dahiya\\OneDrive\\Desktop\\Email-Agent\\Email-Agent\\build\\AI Email Agent '
+   'Monitor\\localpycs\\struct.pyc',
+   'PYMODULE'),
+  ('pyimod01_archive',
+   'C:\\Users\\Ravi '
+   'Dahiya\\OneDrive\\Desktop\\Email-Agent\\Email-Agent\\build\\AI Email Agent '
+   'Monitor\\localpycs\\pyimod01_archive.pyc',
+   'PYMODULE'),
+  ('pyimod02_importers',
+   'C:\\Users\\Ravi '
+   'Dahiya\\OneDrive\\Desktop\\Email-Agent\\Email-Agent\\build\\AI Email Agent '
+   'Monitor\\localpycs\\pyimod02_importers.pyc',
+   'PYMODULE'),
+  ('pyimod03_ctypes',
+   'C:\\Users\\Ravi '
+   'Dahiya\\OneDrive\\Desktop\\Email-Agent\\Email-Agent\\build\\AI Email Agent '
+   'Monitor\\localpycs\\pyimod03_ctypes.pyc',
+   'PYMODULE'),
+  ('pyimod04_pywin32',
+   'C:\\Users\\Ravi '
+   'Dahiya\\OneDrive\\Desktop\\Email-Agent\\Email-Agent\\build\\AI Email Agent '
+   'Monitor\\localpycs\\pyimod04_pywin32.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'C:\\Users\\Ravi '
+   'Dahiya\\OneDrive\\Desktop\\Email-Agent\\venv\\Lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth_inspect',
+   'C:\\Users\\Ravi '
+   'Dahiya\\OneDrive\\Desktop\\Email-Agent\\venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
+   'PYSOURCE'),
+  ('pyi_rth_cryptography_openssl',
+   'C:\\Users\\Ravi '
+   'Dahiya\\OneDrive\\Desktop\\Email-Agent\\venv\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\rthooks\\pyi_rth_cryptography_openssl.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgutil',
+   'C:\\Users\\Ravi '
+   'Dahiya\\OneDrive\\Desktop\\Email-Agent\\venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgutil.py',
+   'PYSOURCE'),
+  ('pyi_rth_multiprocessing',
+   'C:\\Users\\Ravi '
+   'Dahiya\\OneDrive\\Desktop\\Email-Agent\\venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_multiprocessing.py',
+   'PYSOURCE'),
+  ('gmail_monitor',
+   'C:\\Users\\Ravi '
+   'Dahiya\\OneDrive\\Desktop\\Email-Agent\\Email-Agent\\src\\gmail_monitor.py',
+   'PYSOURCE')],
+ 'python311.dll',
+ True,
+ False,
+ False,
+ [],
+ None,
+ None,
+ None)
